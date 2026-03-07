@@ -1,6 +1,14 @@
-# 💫 About Me:
-👋 Hi! I'm Shivani, a curious and creative developer-in-progress!<br><br>🎓 Currently learning: Python, web development, and building AI tools  <br>💡 Exploring the world of AI and full-stack development <br>🛠️ I love combining code + creativity - from automating content to designing aesthetic web pages <br>🎯 My goal: To become a full-stack developer and build tools that help creators and communities  <br>🌱 Always learning, always building<br>
+# 💫 About Me
 
+👋 Hi! I'm Shivani, a curious developer currently exploring the world of technology and AI.
+
+🎓 Currently learning: Python, C, and the fundamentals of AI/ML  
+💡 Interested in AI tools, data-driven applications, and software development  
+🛠️ I enjoy building small projects to improve my coding skills and understand real-world applications  
+🚀 Currently experimenting with machine learning, datasets, and beginner AI projects  
+🎯 Goal: To grow into a skilled developer and build useful tools that solve real problems  
+
+🌱 Always learning, building, and improving
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hGArXHgu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivani-sri-781176364) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanisrir007@gmail.com) 
