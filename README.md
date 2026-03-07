@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Shivani, a curious and creative developer-in-progress!<br><br>🎓 Currently learning: Python, web development, and building AI tools  <br>💡 Exploring the world of AI, automation, and content creation  <br>🛠️ I love combining code + creativity - from automating content to designing aesthetic web pages <br>🎯 My goal: To become a full-stack developer and build tools that help creators and communities  <br>🌱 Always learning, always building<br>
+👋 Hi! I'm Shivani, a curious and creative developer-in-progress!<br><br>🎓 Currently learning: Python, web development, and building AI tools  <br>💡 Exploring the world of AI and full-stack development <br>🛠️ I love combining code + creativity - from automating content to designing aesthetic web pages <br>🎯 My goal: To become a full-stack developer and build tools that help creators and communities  <br>🌱 Always learning, always building<br>
 
 
 ## 🌐 Socials:
