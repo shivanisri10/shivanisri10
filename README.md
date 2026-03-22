@@ -1,3 +1,11 @@
+<h1 align="center">✨ Shivani Sri ✨</h1>
+<h3 align="center">🚀 Aspiring Developer | Python • AI • Open Source</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Building+Projects;Learning+DSA;Exploring+AI;Open+Source+Journey" />
+</p>
+
+---
 # 💫 About Me
 
 👋 Hi! I'm Shivani, a passionate and driven developer exploring the world of technology and AI.
@@ -22,6 +30,34 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🤖 AI Chatbot (Python)
+🔹 A simple chatbot built using Python with basic NLP logic  
+🔹 Handles user input and generates conversational responses  
+🔹 Focused on understanding how chat systems work  
+
+👉 [View Project](https://github.com/shivanisri10/ai-chatbot-python)
+
+---
+
+### 🎓 Student Result Management System
+🔹 CLI-based application to manage and analyze student records  
+🔹 Allows adding, updating, and viewing results efficiently  
+🔹 Built using Python with structured logic  
+
+👉 [View Project](https://github.com/shivanisri10/Student-Result-Management-System)
+
+---
+
+### 📸 My Photo Booth
+🔹 Interactive web app for capturing and enhancing photos  
+🔹 Built using TypeScript with UI-based features  
+🔹 Focused on frontend interaction and usability  
+
+👉 [View Project](https://github.com/shivanisri10/My-Photo-Booth)
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivanisri10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivanisri10&theme=tokyonight&hide_border=false)<br/>
@@ -33,4 +69,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shivanisri10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
