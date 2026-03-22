@@ -1,62 +1,36 @@
-<h1 align="center">Hi 👋, I'm Shivani</h1>
-<h3 align="center">🚀 Aspiring Developer | Python • AI • Open Source</h3>
+# 💫 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;AI+Enthusiast;Open+Source+Learner;Building+Real+World+Projects" />
-</p>
+👋 Hi! I'm Shivani, a passionate and driven developer exploring the world of technology and AI.
 
----
+🎓 Currently learning: Python, C, and core concepts of Data Structures & AI/ML  
+💡 Interested in building data-driven applications, AI tools, and scalable software  
+🛠️ Actively building projects to strengthen problem-solving and real-world development skills  
+🚀 Exploring machine learning, datasets, and practical AI implementations  
+🎯 Goal: To become a skilled developer and build impactful solutions that solve real-world problems  
 
-## 💫 About Me
-🎓 First-year CSE student passionate about tech & AI  
-💡 Interested in building real-world, data-driven applications  
-🛠️ Love creating projects to learn deeply  
-🚀 Currently exploring AI + DSA + Open Source  
-🎯 Goal: Become a strong developer & crack top internships  
+🌱 Consistently learning, building, and improving every day  
 
 ---
 
-## 🚀 What I'm Doing Right Now
-- 📚 Learning Data Structures & Algorithms  
-- 🤖 Working on AI-based projects  
-- 🌱 Starting open-source contributions  
-- 💻 Building projects consistently  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hGArXHgu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-sri-781176364) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanisrir007@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivanisri10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shivanisri10&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanisri10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=shivanisri10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode" />
-</p>
-
----
-
-## 🔥 Projects
-🔹 **AI Chatbot (Python)**  
-→ Simple chatbot using NLP basics  
-
-🔹 **Student Result Management System**  
-→ CLI-based system to manage student data  
-
-🔹 **Photo Booth App**  
-→ Interactive app for capturing images  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanisri10&show_icons=true&theme=tokyonight" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shivanisri10&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shivani-sri-781176364"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:shivanisrir007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
-<p align="center">✨ "Consistency beats talent when talent is inconsistent." ✨</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
