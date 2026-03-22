@@ -2,7 +2,7 @@
 <h3 align="center">🚀 CSE Student | Python Developer | AI Enthusiast</h3>
 
 ---
-# 💫 About Me
+## 💫 About Me
 
 👋 Hi! I'm Shivani, a passionate and driven developer exploring the world of technology and AI.
 
