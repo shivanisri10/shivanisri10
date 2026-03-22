@@ -1,9 +1,5 @@
 <h1 align="center">✨ Shivani Sri ✨</h1>
-<h3 align="center">🚀 Aspiring Developer | Python • AI • Open Source</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Building+Projects;Learning+DSA;Exploring+AI;Open+Source+Journey" />
-</p>
+<h3 align="center">🚀 CSE Student | Python Developer | AI Enthusiast</h3>
 
 ---
 # 💫 About Me
