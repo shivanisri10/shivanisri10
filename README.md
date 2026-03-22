@@ -27,11 +27,6 @@
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hGArXHgu) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-sri-781176364) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanisrir007@gmail.com) 
-
 ### 🎓 Student Result Management System
 🔹 CLI-based application to manage and analyze student records  
 🔹 Allows adding, updating, and viewing results efficiently  
@@ -49,6 +44,13 @@
 👉 [View Project](https://github.com/shivanisri10/My-Photo-Booth)
 
 ---
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hGArXHgu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-sri-781176364) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanisrir007@gmail.com) 
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivanisri10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivanisri10&theme=tokyonight&hide_border=false)<br/>
