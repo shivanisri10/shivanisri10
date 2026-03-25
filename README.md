@@ -9,8 +9,8 @@
 - Currently learning: Python, C, and core concepts of Data Structures & AI/ML  
 - Interested in building data-driven applications, AI tools, and scalable software  
 - Actively building projects to strengthen problem-solving and real-world development skills  
-🚀 Exploring machine learning, datasets, and practical AI implementations  
-🎯 Goal: To become a skilled developer and build impactful solutions that solve real-world problems  
+- Exploring machine learning, datasets, and practical AI implementations  
+- Goal: To become a skilled developer and build impactful solutions that solve real-world problems  
 
 🌱 Consistently learning, building, and improving every day  
 
