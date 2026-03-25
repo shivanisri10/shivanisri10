@@ -1,10 +1,10 @@
 <h1 align="center">✨ Shivani Sri ✨</h1>
-<h3 align="center">🚀 CSE Student | Python Developer | AI Enthusiast</h3>
+<h3 align="center"> CSE Student | Python Developer | AI Enthusiast</h3>
 
 ---
 ## 💫 About Me
 
-👋 Hi! I'm Shivani, a passionate and driven developer exploring the world of technology and AI.
+ Hi! I'm Shivani, a passionate and driven developer exploring the world of technology and AI.
 
 - Currently learning: Python, C, and core concepts of Data Structures & AI/ML  
 - Interested in building data-driven applications, AI tools, and scalable software  
@@ -16,9 +16,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 AI Chatbot (Python)
+###  AI Chatbot (Python)
 🔹 A simple chatbot built using Python with basic NLP logic  
 🔹 Handles user input and generates conversational responses  
 🔹 Focused on understanding how chat systems work  
@@ -27,7 +27,7 @@
 
 ---
 
-### 🎓 Student Result Management System
+###  Student Result Management System
 🔹 CLI-based application to manage and analyze student records  
 🔹 Allows adding, updating, and viewing results efficiently  
 🔹 Built using Python with structured logic  
