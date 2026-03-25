@@ -12,7 +12,7 @@
 - Exploring machine learning, datasets, and practical AI implementations  
 - Goal: To become a skilled developer and build impactful solutions that solve real-world problems  
 
-🌱 Consistently learning, building, and improving every day  
+ Consistently learning, building, and improving every day  
 
 ---
 
